@@ -27,7 +27,7 @@ export default defineConfig({
       },
       wrap: true,
     },
-    remarkPlugins: [[remarkGithub, { repository: "kkrishguptaa/artemis" }]],
+    remarkPlugins: [[remarkGithub, { repository: "ikrishg/artemis" }]],
   },
 
   experimental: {

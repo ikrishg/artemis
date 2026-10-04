@@ -2,7 +2,7 @@
 
 Simple website to store Devlogs to not forget the development process.
 
-[![A screenshot of the Orpheus Website](https://github.com/kkrishguptaa/artemis/raw/main/.github/screenshot.png)](https://devlogs.krishg.com)
+[![A screenshot of the Artemis website](https://github.com/ikrishg/artemis/raw/main/.github/screenshot.png)](https://devlogs.krishg.com)
 
 ## 👋 Introduction
 
@@ -21,7 +21,7 @@ The premise is simple, static site generation, content collections and markdown 
 
 This website is hosted on Vercel. If you want to deploy it yourself, you can use this handy button:
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fkkrishguptaa%2Fartemis&project-name=artemis&repository-name=artemis&demo-title=Artemis&demo-description=Simple%20website%20to%20store%20Devlogs%20to%20not%20forget%20the%20development%20process.&demo-url=https%3A%2F%2Fdevlogs.krishg.com&demo-image=https%3A%2F%2Fgithub.com%2Fkkrishguptaa%2Fartemis%2Fraw%2Fmain%2F.github%2Fscreenshot.png)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fikrishg%2Fartemis&project-name=artemis&repository-name=artemis&demo-title=Artemis&demo-description=Simple%20website%20to%20store%20Devlogs%20to%20not%20forget%20the%20development%20process.&demo-url=https%3A%2F%2Fdevlogs.krishg.com&demo-image=https%3A%2F%2Fgithub.com%2Fikrishg%2Fartemis%2Fraw%2Fmain%2F.github%2Fscreenshot.png)
 
 ## ✌️ Deployment
 
@@ -30,7 +30,7 @@ This website is hosted on Vercel. If you want to deploy it yourself, you can use
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/kkrishguptaa/artemis.git
+   git clone https://github.com/ikrishg/artemis.git
    ```
 
 2. Navigate to the project directory:
